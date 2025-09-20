@@ -36,7 +36,7 @@ npm install
 
 # Start development server
 npm start   # or npm run dev (if using Vite)
-
+```
 Screenshot Music Project
 * Sign-up Page
 <img width="1914" height="936" alt="image" src="https://github.com/user-attachments/assets/de28d54b-034f-48a9-b28a-a06366d86d6a" />
