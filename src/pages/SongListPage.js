@@ -12,8 +12,7 @@ import {
   CardActions,
   Stack,
   Avatar,
-  Chip,
-  Divider,
+  Chip
 } from "@mui/material";
 import { PlayArrow, Delete, Edit, Person } from "@mui/icons-material";
 
