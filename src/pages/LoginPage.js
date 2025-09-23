@@ -9,7 +9,7 @@ import { login } from "../slices/authSlice";
 export default function LoginPage() {
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  const { user, error } = useSelector((s) => s.auth);
+  const { error } = useSelector((s) => s.auth);
 
   const [form, setForm] = useState({ email: "", password: "" });
 
